@@ -4,4 +4,4 @@
 - 💞️ I’m looking to collaborate on ... a hoi4 mod
 - 📫 How to reach me ... via email at: lollo.barbagelata@gmail.com
 - 😄 Pronouns: ... he/him
-- ⚡ Fun fact: ... I started coding in 10th grade to work on a ck3 mod
+- ⚡ Fun fact: ... I started programming in 10th grade to work on a ck3 mod
